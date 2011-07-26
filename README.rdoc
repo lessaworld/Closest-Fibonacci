@@ -28,6 +28,10 @@ ruby -S gem install ./pkg/closest_fibonacci-0.3.0.gem
    # 144
    # 89
 
+== Implementation Details
+
+The beauty of this implementation is that it has a linear performance defined as O(n).
+
 == Contributing to closest_fibonacci
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
