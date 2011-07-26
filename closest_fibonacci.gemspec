@@ -23,11 +23,12 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "closest_fibonacci.gemspec",
     "lib/closest_fibonacci.rb",
     "test/helper.rb",
     "test/test_closest_fibonacci.rb"
   ]
-  s.homepage = %q{http://github.com/lessaworld/closest_fibonacci}
+  s.homepage = %q{http://github.com/lessaworld/Closest-Fibonacci}
   s.licenses = [%q{MIT}]
   s.require_paths = [%q{lib}]
   s.rubygems_version = %q{1.8.6}
