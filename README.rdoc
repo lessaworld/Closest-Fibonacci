@@ -15,19 +15,18 @@ ruby -S gem install ./pkg/closest_fibonacci-0.3.0.gem
 
 == Usage
 
-#   $ irb --simple-prompt
-#
-#   >> require 'closest_fibonacci'
-#   => true
-#   >> 0.closest_fibonacci
-#   => 0
-#   >> 2.closest_fibonacci
-#   => 1
-#   >> 156.closest_fibonacci
-#   => 144
-#   >> 99.closest_fibonacci
-#   => 89
-#   >> 
+   require 'closest_fibonacci'
+   
+   puts 0.closest_fibonacci
+   puts 2.closest_fibonacci
+   puts 156.closest_fibonacci
+   puts 99.closest_fibonacci
+   #
+   # Prints:
+   # 0
+   # 1
+   # 144
+   # 89
 
 == Contributing to closest_fibonacci
  
