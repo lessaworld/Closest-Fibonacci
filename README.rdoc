@@ -13,31 +13,21 @@ This gem hasn't been published in rubygems.org but you can download it directly 
 
 ruby -S gem install ./pkg/closest_fibonacci-0.3.0.gem
 
-== Sample "User Interaction"
+== Usage
 
-$ irb --simple-prompt
-
->> require 'closest_fibonacci'
-
-=> true
-
->> 0.closest_fibonacci
-
-=> 0
-
->> 2.closest_fibonacci
-
-=> 1
-
->> 156.closest_fibonacci
-
-=> 144
-
->> 99.closest_fibonacci
-
-=> 89
-
->> 
+#   $ irb --simple-prompt
+#
+#   >> require 'closest_fibonacci'
+#   => true
+#   >> 0.closest_fibonacci
+#   => 0
+#   >> 2.closest_fibonacci
+#   => 1
+#   >> 156.closest_fibonacci
+#   => 144
+#   >> 99.closest_fibonacci
+#   => 89
+#   >> 
 
 == Contributing to closest_fibonacci
  
