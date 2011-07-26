@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestClosestFibonacci < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
+  should "match these pre-identified values" do
     flunk "hey buddy, you should probably rename this file and start testing for real"
   end
 end

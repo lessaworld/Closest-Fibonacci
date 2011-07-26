@@ -1,6 +1,10 @@
 = closest_fibonacci
 
-Description goes here.
+A very simple gem that finds the largest integer value from the Fibonacci Sequence
+smaller than the given integer (see sample usage below).
+
+156.closest_fibonacci => 144
+99.closest_fibonacci => 89
 
 == Contributing to closest_fibonacci
  
