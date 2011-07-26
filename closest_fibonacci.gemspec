@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "closest_fibonacci.gemspec",
     "lib/closest_fibonacci.rb",
     "test/helper.rb",
     "test/test_closest_fibonacci.rb"
